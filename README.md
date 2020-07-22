@@ -10,4 +10,8 @@ Operations:
 
 The postman or the browser can be used as client for making requests.
 
+# Database
 The course details are stored in the MySQL database and retrieved from there.
+
+# Dependencies
+Dependencies are managed via Maven
