@@ -1,6 +1,7 @@
 # Implementing the REST API with SpringBoot
 
-The RestAPi is implemeted by SpringBoot for doing operations for the Courses
+The RestAPI is implemeted by SpringBoot for doing operations for the Courses.
+Operations:
 1. Get all Courses
 2. Get course details via its id.
 3. Update details of courses via their id.
@@ -9,4 +10,4 @@ The RestAPi is implemeted by SpringBoot for doing operations for the Courses
 
 The postman or the browser can be used as client for making requests.
 
-The course details are stored in the MySQL database.
+The course details are stored in the MySQL database and retrieved from there.
